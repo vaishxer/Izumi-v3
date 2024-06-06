@@ -17,7 +17,7 @@ izumi(
       buff,
       {
         mimetype: "image/jpeg",
-        caption: "Iᴢᴜᴍɪ",
+        caption: "Ai image generator by VaishXer bot",
       },
       "image"
     );
